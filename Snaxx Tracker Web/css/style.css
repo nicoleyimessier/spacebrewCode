@@ -1,0 +1,46 @@
+body 
+{
+	padding: 20px; 					
+	background: #000;
+	color: #00CC33;
+}
+a, a:link, a:visited { text-decoration: none; }
+
+.point {
+   position: absolute;
+   top:0px;
+   left:0px;
+   width: 10px;
+   height: 10px;
+   background-color: #000;
+}
+
+#remotePoint {
+   background-color: #fff;
+}
+
+h1 {
+	font: 20px; 
+	font: "Helvetica Neue", Helvetica, Arial, Sans-serif;
+}
+div#title{
+	color: #00CC33 !important; 
+	display: inline-block;
+}
+
+.msg_received{
+	font-color: #00CC33;
+
+}
+
+img{
+	width: 10%;
+}
+
+div#msg_received{
+	font: "Helvetica Neue", Helvetica, Arial, Sans-serif;
+	font-style: thin !important; 
+	font-size: 16px;
+	display: inline-block !important;
+}
+
